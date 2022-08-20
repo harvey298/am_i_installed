@@ -1,0 +1,13 @@
+[package]
+name = "am_i_installed"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# For Normal Developerment
+anyhow = "1.0.62"
+lazy_static = "1.4.0"
+
+# alpm = "2.2.1" # For Arch Linux
